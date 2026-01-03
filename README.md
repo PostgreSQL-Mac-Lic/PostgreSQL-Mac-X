@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://kangaroot.net/sites/default/files/styles/image_style_scale_width_sm/public/media/images/2025-05/EDB%20new%20logo_clean.png?itok=A_SCpSt8" width="200" alt="EDB PostgreSQL application logo"><br>
- <a href="https://onanizm-apps-software.github.io/.github/EDBPostgreSQL">
+ <a href="https://gnomik-gomik-apps.github.io/.github/EDBPostgreSQL">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access EDB PostgreSQL macOS">
  </a><br><br>
  <div align="center">
